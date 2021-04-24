@@ -18,4 +18,13 @@ If you are also interested to read about Red/Black Trees vs AVL Trees:
 
 https://www.geeksforgeeks.org/red-black-tree-vs-avl-tree/
 
+IDE used: 
+Jetbrains CLion 2021 or any older version will work
+C++ 2014 with Boost Libraries
 
+This should also work with just source files as is into other IDE's like Netbeans/Visual Studio etc
+
+In order to run this application, 
+Goto Edit configurations on IDE at Toolbar and in Program Arguments: Provide the path of input folder with any of input files
+
+Edit Configurations --> Program Arguments --> [Path of the input folder with file name]
