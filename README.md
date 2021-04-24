@@ -9,5 +9,12 @@ A brief understanding on Red Black Trees and its self balancing nature on node a
 
 https://www.geeksforgeeks.org/red-black-tree-set-1-introduction-2/
 
+https://www.geeksforgeeks.org/red-black-tree-set-2-insert/
+
+https://www.geeksforgeeks.org/red-black-tree-set-3-delete-2/
+
+
+If you are also interested to read about Red/Black Trees vs AVL Trees: 
+https://www.geeksforgeeks.org/red-black-tree-vs-avl-tree/
 
 
